@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.env
+
+/home/pc/Videos/mysql/aspnet-mssql/terraform/terraform.tfvars
+*.tfstate
+*.tfstate.*
+crash.log
+
+**/.terraform/*
+/home/pc/Videos/mysql/aspnet-mssql/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.42.0/linux_amd64/terraform-provider-aws_v6.42.0_x5
+terraform/*.tfvars
